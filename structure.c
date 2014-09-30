@@ -597,8 +597,8 @@ InitializeR (double *R, double *sumR, double *varR)
       R[ind] = exp((LOG10RMIN+LOG10RMAX)*1.15129);
     }
   }
-  sumR[ind] = 0.0;
-  varR[ind] = 0.0;
+  //sumR[ind] = 0.0;
+  //varR[ind] = 0.0;
 }
 /*---------------------------------------*/
 void InitializeGeno (int *Geno, int *PreGeno)
