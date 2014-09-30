@@ -1,0 +1,7 @@
+structure (2.3.4~1) trusty; urgency=medium
+
+  * Comment out lines 600-601 in structure.c
+  * https://groups.google.com/forum/#!searchin/structure-software/segmentation$20fault/structure-software/ic3utCOwmvM/k45AFQCtz44J
+
+ -- Andrew Page <ap13@sanger.ac.uk>  Tue, 30 Sep 2014 10:04:49 +0100
+
